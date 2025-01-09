@@ -1,2 +1,3 @@
 # Bot_discord
-Bot en Node.JS 
+Bot en node c'est tout  
+ salut 
